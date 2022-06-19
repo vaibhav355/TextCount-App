@@ -36,6 +36,8 @@ export default function Navbar(props) {
               </Link>
             </li>
           </ul>
+
+          {/* This was for a search box in Navbar */}
           {/* <form className="d-flex">
             <input
               className="form-control me-2"
